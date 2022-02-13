@@ -38,6 +38,5 @@ Start your Bot in Telegram & Enjoy
 
 `API ID` & `API HASH` Get your own 🤗 from https://my.telegram.org
 
-##### Credit
-
-- Me [Shouvik Maji](https://github.com/shouvikmaji000) For This Repo
+# ❤️ Support
+<a href="https://t.me/Cool_dude_000"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
