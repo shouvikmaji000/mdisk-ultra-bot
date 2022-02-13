@@ -6,8 +6,8 @@
         "MDisk",
         "shortner"
     ],
-    "website": "https://github.com/Shashwat-Shukla/mdisk-ultra-bot",
-    "repository": "https://github.com/Shashwat-Shukla/mdisk-ultra-bot",
+    "website": "https://github.com/shouvikmaji000/mdisk-ultra-bot",
+    "repository": "https://github.com/shouvikmaji000/mdisk-ultra-bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token (must add)",
@@ -27,7 +27,7 @@
         },
         "MDISK_TOKEN": {
             "description": "Put your MDisk API key here",
-            "value": "j219piqFPsQBhba52F4l"
+            "value": "yu5ktS3V2RR4ijTreXEG"
         }
     },
     "addons": [],
